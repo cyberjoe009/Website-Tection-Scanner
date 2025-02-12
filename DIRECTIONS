@@ -1,0 +1,13 @@
+To use the tool:
+
+1. Save the code as `security_scanner.py`
+
+2. Install dependencies:
+   ```bash
+   pip install requests beautifulsoup4
+   ```
+
+3. Run the scanner:
+   ```bash
+   python3 security_scanner.py http://example.com
+   ```
